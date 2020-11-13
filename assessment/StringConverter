@@ -1,0 +1,11 @@
+public class StringConverter
+{
+public static void main(String names[])
+{
+System.out.println("Java invokes main method");
+
+String fingers=Byte.parseByte();
+System.out.println("Converted byte is ":+fingers);
+System.out.println("EXIT::main()");
+}
+}

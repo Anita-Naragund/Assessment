@@ -1,0 +1,32 @@
+Method
+      Method is a bolck of code which only runs when it is called.
+	  Method is a set of statements.
+	  Ex:public static void phoneCall()
+	  {
+	  //body of the method
+	  }
+	  Here phoneCall is the method name.
+	  
+	  
+	  
+Parameter
+      parameter is a variable that written with in the paranthesis of the method.
+	  Ex: public static void phoneCall(long number)
+	  {
+	  //body of the method
+	  }
+	  here long is the data type and number is the variable name together called as Parameter.
+	  
+	  
+	  
+	  
+Argument 
+      Values that are passed to the main method during run time is called as Argument.
+	  
+	  
+Return type
+A return type may be a primitive type like int,float...etc.Return type will returnthe value of method.
+Ex:public static String call(long number)
+{
+return number;
+}

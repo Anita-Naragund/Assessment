@@ -1,0 +1,8 @@
+Method OverLoading
+        Two or more methods can have a same name but differ in parameters,these methods are called as method overloading
+		method overloadingcan have a same signature but differ in parameters.
+		
+		Ex:public static void call(long number)
+		public static void call(String number,String name)
+		public static void call(String name,long number)
+		public static void call(long number,String name)

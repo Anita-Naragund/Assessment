@@ -1,0 +1,9 @@
+1.What is the difference between compile time and runtime?
+->Compile time
+        Compiletime is when the program is compiled.
+		Compiletime is the instance when the code we entered is converted into executable.
+		it will convert.jav file into .class file)(javac)
+		
+->Run-Time 
+        Is the instance where the executableis running.
+		runtime is when it executes (either virtual or physical)

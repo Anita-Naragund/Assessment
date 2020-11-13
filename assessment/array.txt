@@ -1,0 +1,4 @@
+Array 
+     An array is a data structure which can store the fixed-size of elements.
+	 array is a coillection of elements.
+	 ex:String name={"anu","sonu","vidya","Vinnu"}

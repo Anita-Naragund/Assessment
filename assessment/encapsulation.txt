@@ -1,0 +1,17 @@
+Encapsulation
+       Encapsulation is a process of wrapping code and data together into a single unit
+	   Using private keywork we can encapsulate the data so that other calss may not be able to access it.
+	   
+	   Ex: private static double totalAmount;
+	public static void request(double amount,String day)
+	{
+		System.out.println("invoked request method");
+		System.out.println("args o :"+amount);
+		System.out.println("args 1 :"+day);
+		totalAmount=totalAmount+amount;
+		System.out.println("total amount after Request :"+totalAmount);
+		System.out.println("EXIT::request()");
+	}
+		
+		
+		public s
